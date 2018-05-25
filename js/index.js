@@ -1,3 +1,8 @@
+/*
+Takes Online Pizza Delivery Orders and calculates the cost before and after tax
+@scarfino 2018
+*/
+
 let orderCount = 0;
 
 const takeOrder = (topping, crustType) => {
